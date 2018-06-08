@@ -1,2 +1,4 @@
 # typescript-grammar-training
-Grammar training for typesript
+
+* super super chaotic codes
+

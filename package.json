@@ -1,0 +1,16 @@
+{
+  "name": "typescript-grammar-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node chaos.ts"
+  },
+  "repository": "git@github.com:diescake/typescript-grammar-training.git",
+  "author": "diescake <daisuke.kondo@access-company.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^6.1.0",
+    "typescript": "^2.9.1"
+  }
+}
